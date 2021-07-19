@@ -1,1 +1,3 @@
-I am two.txt file on gitone. Do you fill really blased to learning time git and github? Yes I fill grat on git learning time. main branch edit now
+I am two.txt file on gitone. Do you fill really blased to learning time git and github? Yes I fill grat on git learning time. main branch edit now. 
+
+You known to very well that every man has a good or bad story has life.
